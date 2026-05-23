@@ -79,6 +79,5 @@ Computer Science Student • AI & ML Enthusiast • Software Developer
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SakshamxMidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  
   <img height="170" src="https://streak-stats.demolab.com?user=SakshamxMidha&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
