@@ -1,27 +1,26 @@
 <h1 align="center">Hi 👋, I'm Saksham Midha</h1>
 
 <h3 align="center">
-AI & Data Science Student • ML Enthusiast • Software Developer
+Computer Science Student • AI & ML Enthusiast • Software Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Passionate+About+Building+Impactful+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Machine+Learning+%26+Data+Engineering;Full+Stack+Developer;Building+Scalable+and+Impactful+Solutions" />
 </p>
 
+---
+
+## About Me
+
+- 3rd Year B.Tech student specializing in **Artificial Intelligence & Data Science**
+- Interested in **Machine Learning, Backend Engineering, and Full Stack Development**
+- Strong foundation in **Data Structures, Algorithms, OOP, and Software Development**
+- Passionate about building scalable systems and AI-driven applications
+- Continuously learning modern technologies across AI, cloud, and development
 
 ---
 
-## 🚀 About Me
-
-- 🎓 3rd Year B.Tech Student in **AI & Data Science**
-- 💻 Interested in **Machine Learning, Software Engineering, and Full Stack Development**
-- 🧠 Strong grasp of **Data Structures & Algorithms**
-- ⚡ Passionate about building scalable and impactful tech solutions
-- 🌱 Constantly learning and exploring modern technologies
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -35,12 +34,12 @@ AI & Data Science Student • ML Enthusiast • Software Developer
 
 ### Cloud & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,oracle,docker,linux" />
 </p>
 
 ### AI / Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,opencv" />
 </p>
 
 <p>
@@ -55,7 +54,7 @@ AI & Data Science Student • ML Enthusiast • Software Developer
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/saksham-midha-04b183337" target="_blank">
@@ -69,14 +68,11 @@ AI & Data Science Student • ML Enthusiast • Software Developer
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SakshamxMidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SakshamxMidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
   
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamxMidha&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=SakshamxMidha&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamxMidha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
