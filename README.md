@@ -24,22 +24,22 @@ Computer Science Student • AI & ML Enthusiast • Software Developer
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,php,r" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,r" />
 </p>
 
-### Web Development
+### Backend & Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,html,css" />
 </p>
 
-### Cloud & Databases
+### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,mysql,oracle,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,gcp,docker,linux" />
 </p>
 
-### AI / Data Science
+### AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,anaconda,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda" />
 </p>
 
 <p>
@@ -49,7 +49,14 @@ Computer Science Student • AI & ML Enthusiast • Software Developer
   
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/mlflow-017CEE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/MLflow-017CEE?style=for-the-badge"/>
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,githubactions" />
 </p>
 
 ---
@@ -75,4 +82,3 @@ Computer Science Student • AI & ML Enthusiast • Software Developer
   
   <img height="170" src="https://streak-stats.demolab.com?user=SakshamxMidha&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
-
