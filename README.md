@@ -12,7 +12,7 @@ Computer Science Student • AI & ML Enthusiast • Software Developer
 
 ## About Me
 
-- 3rd Year B.Tech student specializing in **Artificial Intelligence & Data Science**
+- B.Tech student specializing in **Artificial Intelligence & Data Science**
 - Interested in **Machine Learning, Backend Engineering, and Full Stack Development**
 - Strong foundation in **Data Structures, Algorithms, OOP, and Software Development**
 - Passionate about building scalable systems and AI-driven applications
