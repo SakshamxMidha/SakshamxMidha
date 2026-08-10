@@ -76,18 +76,7 @@ Computer Science (AI & Data Science) Student • Full-Stack Developer • AI/ML 
 
 ---
 
-## Featured Projects
 
-**[StartupForge AI](https://github.com/SakshamxMidha/Startup-Forge)** — [Live](https://startup-forge-ochre.vercel.app/)
-Full-stack AI platform turning a one-line startup idea into a scored analysis, business plan, market research, DB schema, and pitch deck across 6 AI modules, with a RAG-powered mentor chat (Gemini embeddings + pgvector).
-
-**[PathAegis](https://github.com/SakshamxMidha/PathAegis)** — [Live](https://path-aegis.vercel.app/)
-Real-time pothole detection using YOLOv8 (98% accuracy on 30,000+ images), surfacing GPS-tagged civic records on a React + OpenStreetMap dashboard.
-
-**[AirGuard](https://github.com/SakshamxMidha/AirGuard-A-personalized-air-pollution-exposure-engine)** — [Live](https://airguard-a-personalized-air-pollution.onrender.com/index.html)
-Personalized, location-based air pollution exposure risk engine built on an end-to-end ML pipeline with a SQL-backed REST API.
-
----
 
 ## Connect With Me
 <p align="left">
