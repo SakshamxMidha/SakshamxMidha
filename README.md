@@ -95,6 +95,9 @@ Computer Science (AI & Data Science) Student • Full-Stack Developer • AI/ML 
 
 ## GitHub Stats
 <div align="center">
+
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SakshamxMidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 <img height="165" src="https://streak-stats.demolab.com?user=SakshamxMidha&theme=tokyonight&hide_border=true&background=0D1117"/>
+
 </div>
