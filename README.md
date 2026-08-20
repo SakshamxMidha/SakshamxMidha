@@ -4,13 +4,13 @@ Computer Science (AI & Data Science) Student • Full-Stack Developer • AI/ML 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Retrieval-Augmented+Generation+%26+LLMs;Machine+Learning+%2C+NLP+%26+Computer+Vision;Full+Stack+Developer;Building+Scalable+and+Impactful+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Retrieval-Augmented+Generation+%26+LLMs;Machine+Learning+%2C+NLP+%26+Computer+Vision;Full+Stack+Developer;Building+Scalable+and+Impactful+Solutions" />
 </p>
 
 <p align="center">
-  <a href="https://saksham-midha.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:sakshammidha1401@gmail.com">📧 Gmail</a> •
-  <a href="https://linkedin.com/in/saksham-midha-04b183337" target="_blank">💼 LinkedIn</a>
+<a href="https://saksham-midha.vercel.app/" target="_blank">🌐 Portfolio</a> •
+<a href="mailto:sakshammidha1401@gmail.com">📧 Gmail</a> •
+<a href="https://linkedin.com/in/saksham-midha-04b183337" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
@@ -29,66 +29,64 @@ Computer Science (AI & Data Science) Student • Full-Stack Developer • AI/ML 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts" />
 </p>
 
 ### AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ### Full-Stack Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css" />
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ### Databases & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,aws,vercel,docker,linux" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,aws,vercel,docker,linux" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge"/>
 </p>
 
 ### Data & Visualization
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ### Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode" />
 </p>
 
 ---
 
-
-
 ## Connect With Me
 <p align="left">
-  <a href="https://saksham-midha.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/saksham-midha-04b183337" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="mailto:sakshammidha1401@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+<a href="https://saksham-midha.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/saksham-midha-04b183337" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="mailto:sakshammidha1401@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 ---
@@ -96,8 +94,8 @@ Computer Science (AI & Data Science) Student • Full-Stack Developer • AI/ML 
 ## GitHub Stats
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SakshamxMidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="./profile/stats.svg"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=SakshamxMidha&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="165" src="./profile/streak.svg"/>
 
 </div>
