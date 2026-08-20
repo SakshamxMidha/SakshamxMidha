@@ -1,0 +1,40 @@
+name: Update Profile Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=SakshamxMidha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=SakshamxMidha&theme=tokyonight&hide_border=true&background=0D1117
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "SakshamxMidha"
+          git config --global user.email "142732307+SakshamxMidha@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update profile stats cards" || echo "No changes"
+          git pull --rebase
+          git push
